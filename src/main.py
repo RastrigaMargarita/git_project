@@ -1,1 +1,0 @@
-yprint("Hello Linux")
