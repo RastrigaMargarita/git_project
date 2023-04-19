@@ -1,1 +1,1 @@
-print("Hello World")
+yprint("Hello Linux")
